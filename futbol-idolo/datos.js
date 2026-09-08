@@ -954,7 +954,10 @@ module.exports = {
     jugadores_carrera,
     estadisticas_carrera,
     historial_clubes,
-    titulos,
     partidos,
-    equipos
+    equipos,
+    competiciones,
+    titulos,
+    premios_individuales,
+    temporadas
 };
